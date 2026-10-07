@@ -19,7 +19,8 @@ FVerde: Glob = {
   descripciom: 'Personaje PRINCIPAL del juego Glob Defenders, es el origen de todos los Globs.',
   habitat: 'Gelatin Lake',
   categoria: 'Principal',
-  obtenible: true
+  obtenible: true,
+  imagenUrl: 'https://drive.google.com/drive/u/0/folders/1KhZMTaIjPX2Jmq4ZKbM1GAOGqLnNS74q',
 }
 
 FRoja: Glob = {

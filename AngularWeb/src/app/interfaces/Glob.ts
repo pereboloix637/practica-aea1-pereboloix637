@@ -7,5 +7,5 @@ habitat ?: string; // Lugar de donde viene el Glob (o la actualización de este)
 categoria ?: string; // Lo que hace especial, por ejemplo: Melee, Stunner, Principal, etc.
 obtenible: boolean; // Si se obtiene gratis o no, si es falso, significa que es un Glob que solo se puede obtener por compras en la tienda o jugando.
 creditos?: string; // Creditos del Glob, si es que tiene, por ejemplo: "Creado por: KirByte_Bi"
-imageUrl?: string; // URL de la imagen del Glob (EN PROCESO)
+imagenUrl?: string; // URL de la imagen del Glob (EN PROCESO)
 }
